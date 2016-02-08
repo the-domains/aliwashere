@@ -1,0 +1,14 @@
+layout_spectrum: 0.2939068
+color:
+  saturation: 1
+  brandStrength: 0.9159274
+  lightness: 0
+  rhythmicContrast: 0.3709677
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+typography_spectrum: 0.3172043
+name: AliWasHere
