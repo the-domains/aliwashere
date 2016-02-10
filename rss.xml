@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[AliWasHere]]></title>
         <description><![CDATA[AliWasHere]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.aliwashere.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 20:53:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 21:15:17 GMT</lastBuildDate>
+        <atom:link href="http://www.aliwashere.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/494be233-fd88-4c76-aded-6e72a61b2039.JPG">]]></description>
+            <link>http://www.aliwashere.com/aab46110-63ab-47bd-ab6c-66df34584416/index.html</link>
+            <guid isPermaLink="false">aab46110-63ab-47bd-ab6c-66df34584416</guid>
+            <pubDate>Wed, 10 Feb 2016 21:14:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About Me]]></title>
             <description><![CDATA[<article><h1>About Me</h1><p>My name is Ali and I'm proud to be born and raised here in the Pacific Northwest. So much of my inspiration is drawn from the diverse terrain of Washington State, I couldn't imagine living anywhere else. I'm obsessed with design, which is super vague I know, but I honestly can't think of any 'one' thing I'm passionate about designing. I'm excited by UI/UX mobile design, branding, print collateral such as posters, flyers, business cards. Brilliant packaging makes my heart skip a beat. I'm constantly thinking of new ways to put a spin on what it is I'm designing so I tend to keep up with the current trends, so as you can imagine I spend a LOT of time behind a screen and I couldn't feel more at home! (In other words, I'm screwed if I were ever in an apocalypse! And btw, this does not interfere with my love for post-apocalyptic games and TV shows...)</p></article>]]></description>
-            <link>undefinedabout-me/index.html</link>
+            <link>http://www.aliwashere.com/about-me/index.html</link>
             <guid isPermaLink="false">0a60f66d-88e4-45e2-83ce-ecc7619e1bbf</guid>
             <pubDate>Wed, 10 Feb 2016 20:53:13 GMT</pubDate>
         </item>
