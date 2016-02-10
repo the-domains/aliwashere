@@ -2,6 +2,7 @@ name: AliWasHere
 favicon: null
 layout_spectrum: 0.2939068
 typography_spectrum: 0.3172043
+title: AliWasHere
 cta:
   domain: null
   bucket: null
