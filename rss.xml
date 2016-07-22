@@ -2,23 +2,30 @@
     <channel>
         <title><![CDATA[AliWasHere]]></title>
         <description><![CDATA[AliWasHere]]></description>
-        <link>http://www.aliwashere.com/</link>
+        <link>https://thegrid.ai/aliwashere/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 21:15:17 GMT</lastBuildDate>
-        <atom:link href="http://www.aliwashere.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jul 2016 04:26:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aliwashere/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/494be233-fd88-4c76-aded-6e72a61b2039.JPG">]]></description>
-            <link>http://www.aliwashere.com/aab46110-63ab-47bd-ab6c-66df34584416/index.html</link>
+            <link>https://thegrid.ai/aliwashere/aab46110-63ab-47bd-ab6c-66df34584416/index.html</link>
             <guid isPermaLink="false">aab46110-63ab-47bd-ab6c-66df34584416</guid>
             <pubDate>Wed, 10 Feb 2016 21:14:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[About Me]]></title>
-            <description><![CDATA[<article><h1>About Me</h1><p>My name is Ali and I'm proud to be born and raised here in the Pacific Northwest. So much of my inspiration is drawn from the diverse terrain of Washington State, I couldn't imagine living anywhere else. I'm obsessed with design, which is super vague I know, but I honestly can't think of any 'one' thing I'm passionate about designing. I'm excited by UI/UX mobile design, branding, print collateral such as posters, flyers, business cards. Brilliant packaging makes my heart skip a beat. I'm constantly thinking of new ways to put a spin on what it is I'm designing so I tend to keep up with the current trends, so as you can imagine I spend a LOT of time behind a screen and I couldn't feel more at home! (In other words, I'm screwed if I were ever in an apocalypse! And btw, this does not interfere with my love for post-apocalyptic games and TV shows...)</p></article>]]></description>
-            <link>http://www.aliwashere.com/about-me/index.html</link>
+            <description><![CDATA[<p>My name is Ali and I'm proud to be born and raised here in the Pacific Northwest. So much of my inspiration is drawn from the diverse terrain of Washington State, I couldn't imagine living anywhere else. I'm obsessed with design, which is super vague I know, but I honestly can't think of any 'one' thing I'm passionate about designing. I'm excited by UI/UX mobile design, branding, print collateral such as posters, flyers, business cards. Brilliant packaging makes my heart skip a beat. I'm constantly thinking of new ways to put a spin on what it is I'm designing so I tend to keep up with the current trends, so as you can imagine I spend a LOT of time behind a screen and I couldn't feel more at home! (In other words, I'm screwed if I were ever in an apocalypse! And btw, this does not interfere with my love for post-apocalyptic games and TV shows...)</p>]]></description>
+            <link>https://thegrid.ai/aliwashere/about-me/index.html</link>
             <guid isPermaLink="false">0a60f66d-88e4-45e2-83ce-ecc7619e1bbf</guid>
             <pubDate>Wed, 10 Feb 2016 20:53:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Toot]]></title>
+            <description><![CDATA[<article><h1>Toot</h1><p>This is it👾</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c59d467-c9ba-4778-a102-2e4e5e00520e.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c59d467-c9ba-4778-a102-2e4e5e00520e.jpg</link>
+            <guid isPermaLink="false">799418a9-bece-476a-a7d9-2c9795e5db19</guid>
+            <pubDate>Fri, 22 Jul 2016 04:26:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
